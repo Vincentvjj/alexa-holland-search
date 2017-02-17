@@ -1,0 +1,49 @@
+
+GetCruise find cruises
+GetCruise get cruises
+GetCruise search all cruises
+GetCruise search voyages 
+
+GetCruiseToDestination find cruises to {destination}
+GetCruiseToDestination get cruises to {destination}
+GetCruiseToDestination search all cruises to {destination}
+GetCruiseToDestination search cruises to {destination}
+GetCruiseToDestination search cruises going to {destination}
+GetCruiseToDestination voyage to {destination}
+
+GetCruiseToShip find cruises on {ship}
+GetCruiseToShip get cruises on {ship}
+GetCruiseToShip search all cruises on {ship}
+GetCruiseToShip search cruises on {ship}
+GetCruiseToShip search cruises going on {ship}
+GetCruiseToShip find voyages on {ship}
+
+NextItinerary next cruise
+NextItinerary next 
+NextItinerary what's next
+NextItinerary next itinerary 
+NextItinerary skip
+NextItinerary next voyage 
+
+SendEmail email
+SendEmail send email
+SendEmail email voyage
+
+Stop stop 
+Stop end
+Stop cancel
+
+WhereVincent where is vincent
+WonHackathon who will win today
+OneClick do you support one click booking
+
+
+ThankYouJudges judges
+ThankYouJudges to say thankyou judges
+
+
+ThankYou gratitude for the hackathon
+ThankYou hackathon
+ThankYou gratitude
+
+
